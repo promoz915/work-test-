@@ -34,52 +34,52 @@
         <mxCell id="DQUwsMpxa4rGkdQu6fEW-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;대형 모니터&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 50px;&quot;&gt;2-5&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="240" width="400" x="1720" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="DQUwsMpxa4rGkdQu6fEW-75" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=15;" value="" vertex="1">
+        <mxCell id="DQUwsMpxa4rGkdQu6fEW-75" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=15;" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;모바일&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 40px;&quot;&gt;관제pc&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="200" x="80" y="1090" as="geometry" />
         </mxCell>
-        <mxCell id="vPS8sSKx2a6efAUR59vx-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=15;" value="" vertex="1">
+        <mxCell id="vPS8sSKx2a6efAUR59vx-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=15;" value="&#xa;&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 40px;&quot;&gt;모바일&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; font-size: 40px;&quot;&gt;관제pc&lt;/span&gt;&lt;/div&gt;&#xa;&#xa;" vertex="1">
           <mxGeometry height="120" width="200" x="270" y="1140" as="geometry" />
         </mxCell>
-        <mxCell id="vPS8sSKx2a6efAUR59vx-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=-15;" value="" vertex="1">
+        <mxCell id="vPS8sSKx2a6efAUR59vx-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=-15;" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;모바일&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 40px;&quot;&gt;관제pc&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="200" x="-150" y="1090" as="geometry" />
         </mxCell>
-        <mxCell id="vPS8sSKx2a6efAUR59vx-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=-15;" value="" vertex="1">
+        <mxCell id="vPS8sSKx2a6efAUR59vx-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=-15;" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;모바일&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 40px;&quot;&gt;관제pc&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="200" x="-339.99827466494196" y="1139.997454087596" as="geometry" />
         </mxCell>
-        <mxCell id="vPS8sSKx2a6efAUR59vx-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" value="" vertex="1">
+        <mxCell id="vPS8sSKx2a6efAUR59vx-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;그린아이티 관제pc&lt;/font&gt;" vertex="1">
           <mxGeometry height="120" width="200" x="-489.99827466494196" y="1329.9974540875962" as="geometry" />
         </mxCell>
         <mxCell id="vPS8sSKx2a6efAUR59vx-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;소형 C1&lt;/font&gt;" vertex="1">
           <mxGeometry height="120" width="200" x="-490" y="1530" as="geometry" />
         </mxCell>
-        <mxCell id="vPS8sSKx2a6efAUR59vx-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" value="" vertex="1">
+        <mxCell id="vPS8sSKx2a6efAUR59vx-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;다래파크텍&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 40px;&quot;&gt;관제pc&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="200" x="490.00172533505804" y="1109.997454087596" as="geometry" />
         </mxCell>
         <mxCell id="vPS8sSKx2a6efAUR59vx-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;소형 C2&lt;/span&gt;" vertex="1">
           <mxGeometry height="120" width="200" x="690" y="1110" as="geometry" />
         </mxCell>
-        <mxCell id="vPS8sSKx2a6efAUR59vx-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=15;" value="" vertex="1">
+        <mxCell id="vPS8sSKx2a6efAUR59vx-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=15;" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;모바일&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 40px;&quot;&gt;관제pc&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="200" x="1320" y="1109.9974540875962" as="geometry" />
         </mxCell>
-        <mxCell id="vPS8sSKx2a6efAUR59vx-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=15;" value="" vertex="1">
+        <mxCell id="vPS8sSKx2a6efAUR59vx-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=15;" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;모바일&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 40px;&quot;&gt;관제pc&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="200" x="1510" y="1159.9974540875962" as="geometry" />
         </mxCell>
-        <mxCell id="vPS8sSKx2a6efAUR59vx-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=-15;" value="" vertex="1">
+        <mxCell id="vPS8sSKx2a6efAUR59vx-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=-15;" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;모바일&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 40px;&quot;&gt;관제pc&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="200" x="1090" y="1109.9974540875962" as="geometry" />
         </mxCell>
-        <mxCell id="vPS8sSKx2a6efAUR59vx-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=-15;" value="" vertex="1">
+        <mxCell id="vPS8sSKx2a6efAUR59vx-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=-15;" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;모바일&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 40px;&quot;&gt;관제pc&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="200" x="900.0017253350578" y="1159.9949081751922" as="geometry" />
         </mxCell>
         <mxCell id="vPS8sSKx2a6efAUR59vx-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;출입구&lt;/font&gt;" vertex="1">
           <mxGeometry height="350" width="360" x="2610" y="1880" as="geometry" />
         </mxCell>
-        <mxCell id="vPS8sSKx2a6efAUR59vx-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=-30;" value="" vertex="1">
+        <mxCell id="vPS8sSKx2a6efAUR59vx-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=-30;" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;모바일&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 40px;&quot;&gt;관제pc&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="200" x="1740.001725335058" y="1139.9974540875962" as="geometry" />
         </mxCell>
-        <mxCell id="vPS8sSKx2a6efAUR59vx-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" value="" vertex="1">
+        <mxCell id="vPS8sSKx2a6efAUR59vx-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;모바일&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 40px;&quot;&gt;관제pc&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="200" x="1960.0025403784439" y="1090.0015242270663" as="geometry" />
         </mxCell>
-        <mxCell id="vPS8sSKx2a6efAUR59vx-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" value="" vertex="1">
+        <mxCell id="vPS8sSKx2a6efAUR59vx-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;넥스파시스템&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;관제pc&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="200" x="2160" y="1090" as="geometry" />
         </mxCell>
         <mxCell id="vPS8sSKx2a6efAUR59vx-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=20;" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 50px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;소형 C4&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
