@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vPS8sSKx2a6efAUR59vx-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="840" width="3330" x="-550" y="980" as="geometry" />
-        </mxCell>
         <mxCell id="DQUwsMpxa4rGkdQu6fEW-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;대형 모니터&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 50px;&quot;&gt;1-1&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="240" width="400" x="120" y="120" as="geometry" />
         </mxCell>
