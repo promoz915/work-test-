@@ -91,6 +91,12 @@
         <mxCell id="vPS8sSKx2a6efAUR59vx-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" value="" vertex="1">
           <mxGeometry height="120" width="200" x="2580" y="1390" as="geometry" />
         </mxCell>
+        <mxCell id="vPS8sSKx2a6efAUR59vx-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" value="" vertex="1">
+          <mxGeometry height="80" width="140" x="2080.00174593052" y="750.0017459305202" as="geometry" />
+        </mxCell>
+        <mxCell id="vPS8sSKx2a6efAUR59vx-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=15;" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;대형 모니터&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 50px;&quot;&gt;별도&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="240" width="400" x="2400" y="220" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
